@@ -7,7 +7,6 @@
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=900&color=00F5D4&center=true&vCenter=true&width=780&lines=Distributed+FinTech+Lifecycle+Orchestrator;Durable+Temporal.io+State+Machine;Sub-50ms+Asynchronous+Decoupling+over+Kafka;Zero-CPU+Idle+Suspension+Engine;Enterprise+mTLS+Secured+Cloud+Event+Bus" alt="Typing SVG" />
 </a>
-
 <br/><br/>
 
 <!-- Architecture Stack -->
@@ -17,8 +16,6 @@
   <img src="https://img.shields.io/badge/Temporal.io-Durable_Workflows-000000?style=for-the-badge&logo=temporal&logoColor=white" />
   <img src="https://img.shields.io/badge/Apache_Kafka-Aiven_mTLS-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-17_ACID-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
-
 <!-- Live Telemetry -->
 <p align="center">
   <img src="https://img.shields.io/badge/Saga_State-DURABLE_AWAIT-brightgreen?style=flat-square&logo=temporal&logoColor=white" />
@@ -28,6 +25,11 @@
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=90&section=header"/>
+  <div align="center">
+<a href="https://spac-lifecycle-manager.netlify.app">
+<img src="https://img.shields.io/badge/▶️_CLICK_HERE_TO_OPEN_LIVE_DASHBOARD-SPAC%2F%2FLIFECYCLE-00F5D4?style=for-the-badge" />
+</a>
+</p>
 
 </div>
 
